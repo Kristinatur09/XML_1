@@ -1,10 +1,8 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <skills>
-
-	<Terminal>Git</Terminal>
-	<API>Postman</API>
-	<Database>MySQL</Database> 
-	<Sniffers>Charles</Sniffers>
-	<Mobile>Android Studio<Mobile>
+  <Terminal>Git</Terminal>
+  <API>Postman</API>
+  <Database>MySQL</Database> 
+  <Sniffers>Charles</Sniffers>
+  <Mobile>Android Studio<Mobile>
 </skills>

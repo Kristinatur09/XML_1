@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <person>
-<name>Kristina</name>
-<lastname>Tur</lastname>
-<age>29</age>
-<pets>cat</pets>
-<expectedSalary>500</expectedSalary>
+   <name>Kristina</name>
+   <lastname>Tur</lastname>
+   <age>29</age>
+   <pets>cat</pets>
+   <expectedSalary>500</expectedSalary>
 </person>
